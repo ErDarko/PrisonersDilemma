@@ -32,4 +32,5 @@ The Prisoner's Dilemma is used to model various real-life situations such as bus
 - GUI implementation for a more user-friendly experience.
 - Additional AI strategies to increase the challenge.
 - Multiplayer mode for a competitive edge.
-- This project is perfect for anyone interested in game theory, AI, or just looking for a fun programming challenge. Feel free to contribute, suggest improvements, or use this as a base for your own experiments!
+
+### Feel free to contribute, suggest improvements, or use this as a base for your own experiments!
