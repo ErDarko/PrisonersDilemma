@@ -1,5 +1,5 @@
 # 🎮 Prisoner's Dilemma
-## Welcome to the Prisoner's Dilemma Game—an interactive simulation of the classic game theory problem where strategy and decision-making are key!
+## Welcome to the Prisoner's Dilemma Game an interactive simulation of the classic game theory problem where strategy and decision-making are key!
 
 ## What is the Prisoner's Dilemma?
 The Prisoner's Dilemma is a well-known scenario in game theory that explores the conflict between individual self-interest and collective benefit. Here’s a quick overview:
