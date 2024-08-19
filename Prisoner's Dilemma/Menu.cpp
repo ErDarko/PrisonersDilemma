@@ -1,6 +1,7 @@
 #include "Menu.h"
 #include <iostream>
 #include <limits>
+#include <limits>
 
 void Menu::display_main_menu()
 {
@@ -121,5 +122,9 @@ int Menu::get_ai_vs_ai_strategy_choice_02()
 
 void Menu::clear_screen()
 {
-    std::cout << "\033[2J\033[1;1H";
+#ifdef _WIN32
+    system("cls");  // Clear console on Windows
+#else
+    system("clear");  // Clear console on Unix/Linux/Mac
+#endif
 }
