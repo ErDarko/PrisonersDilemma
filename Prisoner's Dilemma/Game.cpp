@@ -65,6 +65,10 @@ bool Game::calculate_points()
         {
             std::cout << "\n\n\nPlayer 02 Won!\n\n\n";
         }
+
+        points_player_01 = 0;
+        points_player_02 = 0;
+
         return false; // Indicate that the game has ended
     }
 
